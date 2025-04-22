@@ -22,7 +22,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     body {
-        background-color: #F9FAFB;
+        background-color: #647287;
     }
     .main-header {
         font-size: 3rem;
