@@ -1,43 +1,35 @@
 [
   {
-    "title":"Python crash course",
-    "author":"Robert Mathew",
-    "publication_year":"2020",
+    "title":"pyhton crash course",
+    "author": "Eric Matthes",
+    "publication_year": 2019,
     "genre":"Programming",
-    "read_status":"false",
-    "added_data":"2025-04-18 11:36:40"
+    "read_status": false,
+    "added_data": "2025-03-11 11:36:40"
   },
-   {
-    "title":"NextJS crash course",
-    "author":"Michael Jon",
-    "publication_year":"2023",
+  {
+    "title":"Automate the boring stuff with python",
+    "author": "Fiza Sagar",
+    "publication_year": 2011,
     "genre":"Programming",
-    "read_status":"false",
-    "added_data":"2025-02-20 09:16:20"
+    "read_status": true,
+    "added_data": "2025-03-11 11:45:80"
   },
-   {
-    "title":"Atomic Habits",
-    "author":"James Clear",
-    "publication_year":"2015",
-    "genre":"Self-Development",
-    "read_status":"true",
-    "added_data":"2022-09-11 05:25:45"
+  {
+    "title":"Fluent Python",
+    "author": "Ramalho",
+    "publication_year": 2022,
+    "genre":"Programming",
+    "read_status": false,
+    "added_data": "2025-03-11 11:55:20"
   },
-   {
-    "title":"Dream Count",
-    "author":"Chimamanda Ngozi",
-    "publication_year":"2009",
-    "genre":"Psychological Fiction",
-    "read_status":"false",
-    "added_data":"2023-09-11 18:26:35"
-  },
-   {
-    "title":"Cloud Cyber Security",
-    "author":"Javier Mendez",
-    "publication_year":"2024",
-    "genre":"Computer Science",
-    "read_status":"true",
-    "added_data":"2025-04-18 11:16:25"
-  },
-]
+  {    
+    "title":"Effective Python",
+    "author": "Brett Slatkin",
+    "publication_year": 2020,
+    "genre":"Programming",
+    "read_status": true,
+    "added_data": "2025-03-11 11:58:10"
     
+  }
+]
