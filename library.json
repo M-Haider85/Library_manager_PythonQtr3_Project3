@@ -1,19 +1,19 @@
 [
   {
-    "title":"pyhton crash course",
+    "title":"Python Crash Course",
     "author": "Eric Matthes",
     "publication_year": 2019,
     "genre":"Programming",
     "read_status": false,
-    "added_data": "2025-03-11 11:36:40"
+    "added_data": "2022-04-15 11:36:40"
   },
   {
-    "title":"Automate the boring stuff with python",
-    "author": "Fiza Sagar",
+    "title":"Atomic Habits",
+    "author": "James Clear",
     "publication_year": 2011,
-    "genre":"Programming",
+    "genre":"Self-Development",
     "read_status": true,
-    "added_data": "2025-03-11 11:45:80"
+    "added_data": "2020-08-10 09:45:80"
   },
   {
     "title":"Fluent Python",
@@ -21,15 +21,39 @@
     "publication_year": 2022,
     "genre":"Programming",
     "read_status": false,
-    "added_data": "2025-03-11 11:55:20"
+    "added_data": "2024-10-25 16:55:20"
   },
   {    
-    "title":"Effective Python",
+    "title":"Effective Ways of Communication",
     "author": "Brett Slatkin",
     "publication_year": 2020,
-    "genre":"Programming",
+    "genre":"Business Communication",
     "read_status": true,
     "added_data": "2025-03-11 11:58:10"
-    
-  }
+  },
+  {    
+    "title":"Iron Flame",
+    "author": "Rebecca Yarros",
+    "publication_year": 2015,
+    "genre":"Romantic Novel",
+    "read_status": true,
+    "added_data": "2022-02-15 18:58:10"
+  },
+  {    
+    "title":"Dream Count",
+    "author": "Chimamanda Ngozi",
+    "publication_year": 2010,
+    "genre":"Psychological Fiction",
+    "read_status": false,
+    "added_data": "2021-03-25 05:42:18"
+  },
+  {    
+    "title":"Cloud Cyber Security",
+    "author": "M.Faisal",
+    "publication_year": 2024,
+    "genre":"Modern Computer Science",
+    "read_status": true,
+    "added_data": "2025-04-10 08:15:36"
+  },
+  
 ]
