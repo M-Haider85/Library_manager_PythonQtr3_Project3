@@ -39,13 +39,13 @@ st.markdown("""
         font-weight: 700;
     }
     .book-card {
-    background: linear-gradient(#cdd3da, #aab3c0, #647287);
+    background: linear-gradient(#006466, #065a60, #0b525b);
     padding: 1.2rem;
     border-radius: 1rem;
     box-shadow: 0 4px 8px rgba(0,0,0,0.08);
     margin-bottom: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    color: #f7c09a; /* Dark slate text */
+    color: #e8e9ea; /* Dark slate text */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     }
