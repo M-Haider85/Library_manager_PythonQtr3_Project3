@@ -45,7 +45,7 @@ st.markdown("""
     box-shadow: 0 4px 8px rgba(0,0,0,0.08);
     margin-bottom: 1rem;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    color: #1E293B; /* Dark slate text */
+    color: #f7c09a; /* Dark slate text */
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     }
