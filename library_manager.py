@@ -22,7 +22,7 @@ st.set_page_config(
 st.markdown("""
 <style>
     body {
-        background-color: #647287;
+        background-color: ##F9FAFB;
     }
     .main-header {
         font-size: 3rem;
@@ -39,34 +39,32 @@ st.markdown("""
         font-weight: 700;
     }
     .book-card {
-        background: linear-gradient(135deg, #e0f2fe, #fef3c7);
-        padding: 1.2rem;
-        border-radius: 1rem;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.08);
-        margin-bottom: 1rem;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
+       background: linear-gradient(145deg, #1F2937, #111827);
+       padding: 1.2rem;
+       border-radius: 1rem;
+       box-shadow: 0 6px 12px rgba(0,0,0,0.3);
+       color: #E5E7EB;
+       margin-bottom: 1rem;
+       transition: transform 0.3s ease, box-shadow 0.3s ease;
     }
-    .book-card:hover {
-        transform: scale(1.02);
-        box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+
+   .book-card:hover {
+       transform: scale(1.02);
+       box-shadow: 0 12px 20px rgba(0,0,0,0.5);
     }
+
     .read-badge {
-        background-color: #22c55e;
-        padding: 0.4rem 1rem;
-        border-radius: 9999px;
-        color: #fff;
-        font-size: 0.85rem;
-        font-weight: 600;
-        box-shadow: 0 2px 4px rgba(34, 197, 94, 0.3);
+    background-color: #10B981;
+    color: #F9FAFB;
+    box-shadow: 0 2px 4px rgba(16, 185, 129, 0.3);
     }
+
     .unread-badge {
-        background-color: #ef4444;
-        padding: 0.4rem 1rem;
-        border-radius: 9999px;
-        color: #fff;
-        font-size: 0.85rem;
-        font-weight: 600;
-        box-shadow: 0 2px 4px rgba(239, 68, 68, 0.3);
+    background-color: #EF4444;
+    color: #F9FAFB;
+    box-shadow: 0 2px 4px rgba(239, 68, 68, 0.3);
+    }
+
     }
     .success-message, .warning-message {
         padding: 1rem;
