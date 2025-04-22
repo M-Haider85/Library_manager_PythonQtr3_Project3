@@ -39,7 +39,7 @@ st.markdown("""
         font-weight: 700;
     }
     .book-card {
-    background: linear-gradient(135deg, #e0f2fe, #fef3c7);
+    background: linear-gradient(#cdd3da, #aab3c0, #647287);
     padding: 1.2rem;
     border-radius: 1rem;
     box-shadow: 0 4px 8px rgba(0,0,0,0.08);
