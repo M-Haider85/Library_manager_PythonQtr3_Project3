@@ -277,7 +277,7 @@ def create_visualizations(stats):
 load_library()
 
 # Sidebar navigation
-st.sidebar.markdown("<h1 style='text-align: center;'>📕 Navigation</h1>", unsafe_allow_html=True)
+st.sidebar.markdown("<h1 style='text-align: center;'>📓 Navigation</h1>", unsafe_allow_html=True)
 
 # Display lottie animation in sidebar
 lottie_book = load_lottieurl("https://assets9.lottiefiles.com/temp/lf20_aKAfIn.json")
